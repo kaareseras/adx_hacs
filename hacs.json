@@ -1,0 +1,8 @@
+{
+    "name": "Azure Data Explorer Beta Test Integration",
+    "hacs": "1.6.0",
+    "domains": [
+    ],
+    "iot_class": "Local Push",
+    "homeassistant": "0.118.0"
+}
