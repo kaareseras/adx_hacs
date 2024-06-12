@@ -1,3 +1,6 @@
+# This integration is from Home Assistant v. 2024.6 now an official part of the Home Assistnat repo. please stop using this HACS
+
+
 # Home Azure Data Explorer Beta testing
 
 This is a Home Assistant Custom integration for beta testing the Azure Data Explorer integration.
