@@ -1,4 +1,4 @@
-# This integration is from Home Assistant v. 2024.6 now an official part of the Home Assistnat repo. please stop using this HACS
+# This integration is from Home Assistant v. 2024.6 now an official part of the Home Assistnat repo. please stop using this HACS. This repo is now being used for development and may be unstable
 
 
 # Home Azure Data Explorer Beta testing
