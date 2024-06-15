@@ -65,7 +65,7 @@ async def async_setup(hass: HomeAssistant, yaml_config: ConfigType) -> bool:
     """
 
     hass.data.setdefault(DOMAIN, {DATA_FILTER: FILTER_SCHEMA({})})
-    if DOMAIN not in yaml_config:
+    if DOMAIN in yaml_config:
         hass.data[DOMAIN][DATA_FILTER] = yaml_config[DOMAIN].pop(CONF_FILTER)
 
     return True
