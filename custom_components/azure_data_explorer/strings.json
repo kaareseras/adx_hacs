@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Setup your Azure Data Explorer integration",
-        "description": "Enter connection details",
+        "description": "HACS version - Enter connection details",
         "data": {
           "cluster_ingest_uri": "Cluster Ingest URI",
           "authority_id": "Authority ID",
